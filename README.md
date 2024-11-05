@@ -1,5 +1,5 @@
-# rapper-virus
-Script that replaces all images in your pictures folder with 2018 edgy rapper profile pictures.
+# ⚠️ you will not get your files back ⚠️
+script that replaces all images in your pictures folder with 2018 edgy rapper profile pictures.
 
 # why? 
 its a little funny & 
